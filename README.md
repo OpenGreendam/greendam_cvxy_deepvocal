@@ -1,0 +1,2 @@
+# greendam_cvxy_deepvocal
+绿坝娘的DeepVocal CVXY格式音库配布地。音频文件请通过其他两个repo或av82609128评论区获取。
